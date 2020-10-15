@@ -10,5 +10,8 @@
 - RANK : is the number of Dimensions in the Output
 - Be it Line of Plane : it is called the Columns Space of a Matrix , and column tells where the base vector lands 
 - Span of Columns = Column Space
+
 ![](Images/Lect7_2.png)
+
+
 - 0,0 is always in the Column Space since in the Linear Transformation the origin cannot be moved and any number of vectors can land on the origin after the Transformation thus it is the Null Space (Kernel of Matrix)of the Vector
