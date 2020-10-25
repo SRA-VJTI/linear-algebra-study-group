@@ -9,7 +9,13 @@ A = 1 2 1             1 2 1             1 2 1
 
 Rows(A) multiplied by some matrix(X) is the linear combination of the all rows of the row matrix.(AX = B)
 
-A matrix(A) multiplied by a column is linear combinations of all the columns of the column matrix
+Matrix(A) multiplied by a column is linear combinations of all the columns of the column matrix
+
+
+(E32 E31 E21)A = U(Upper triangular matrix)
+
+
+
 
 
 
