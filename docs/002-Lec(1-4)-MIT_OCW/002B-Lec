@@ -6,4 +6,11 @@ A = 1 2 1             1 2 1             1 2 1
                                           U
                                           
                                           
+
+Rows(A) multiplied by some matrix(X) is the linear combination of the all rows of the row matrix.(AX = B)
+
+A matrix(A) multiplied by a column is linear combinations of all the columns of the column matrix
+
+
+
       
