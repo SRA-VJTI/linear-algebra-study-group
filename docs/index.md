@@ -6,3 +6,6 @@
 * Lecture 3 - MIT Lecture 5 to 10
   * [Permutaions, Vector Space & Sub Space, Computing Null Space, RREF](003-MIT_5to10/003A.md)
   * [Solving `Ax = B`, Rank, Linear Independence, Span, Basis, Four Subspaces](003-MIT_5to10/003B.md)
+* Lecture 5 - MIT Lecture 11 to 20
+  * [Rank1 matrices, Graphs, Orthogonality, Projections, Least Squares](005-MIT_11to20/005A.md)
+  * [Straight line fitting, Gram-Schmidt, Determinants, Cofactors, Tridiagonal matrices, Inverse](005-MIT_11to20/005B.md)
