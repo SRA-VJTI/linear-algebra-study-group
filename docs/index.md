@@ -9,3 +9,5 @@
 * Lecture 5 - MIT Lecture 11 to 20
   * [Rank1 matrices, Graphs, Orthogonality, Projections, Least Squares](005-MIT_11to20/005A.md)
   * [Straight line fitting, Gram-Schmidt, Determinants, Cofactors, Tridiagonal matrices, Inverse](005-MIT_11to20/005B.md)
+* Lecture 6 - MIT Lecture 21 to 25
+  * [Eigen Values and Eigen Vectors, Diagonalization, Markov matrices, Positive Definite Matrices](006-MIT_21to25/006.md)
