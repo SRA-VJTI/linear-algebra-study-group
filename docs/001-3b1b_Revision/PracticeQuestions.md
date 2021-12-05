@@ -101,7 +101,17 @@
   >  _1 (Since line)_
 </details>
 
-### 8. How many basis exists for a 4D vector space and how many vectors are there in that basis
+### 8. What matrix can rotate 2D space by 60degree in anticlockwise direction?
+<details>
+  <summary>View Answer</summary>
+  <table>
+  <tr> <td>cos(60 deg)   </td> <td> -sin(60 deg)</td>   </tr>
+  <tr> <td>sin(60 deg)   </td> <td> cos(60 deg)</td>   </tr>
+  </table>
+    
+</details>
+
+### 9. How many basis exists for a 4D vector space and how many vectors are there in that basis
 
 <details>
   <summary>View Answer</summary>
@@ -109,7 +119,28 @@
   >  _Infinite number of basis, each basis consists of 4 vectors_
 </details>
 
-### 9. Prove that determinant of the matrix given below is , det(A) = ad - bc
+### 10. Basis1 -->  \[[1 0], [0, 1]], Basis2 --> \[[0 1], [1, 0]]. If a vector in basis1 is given as [3, 3], what it will be in basis 2?
+<details>
+  <summary>View Answer</summary>
+  [3,3]
+    
+</details>
+
+### 11. Find the determinant of this matrix
+<table>
+<tr><td>2</td><td>.</td> <td>1</td><td>9</td><td>5</td></tr>
+<tr><td>-4</td> </tr>
+<tr><td>7</td></tr>
+</table>
+
+<details>
+  <summary>View Answer</summary>
+
+  > _0
+    
+</details>
+
+### 12. Prove that determinant of the matrix given below is , det(A) = ad - bc
 
 |     |     |
 | --- | --- |
@@ -121,4 +152,40 @@
     
   ![det-proof](Images/Det_Proof.png)  
   Area of resultant parallelogram = (a+b)x(c+d) - [2bc + ac/2 + ac/2 + bd/2 + bd/2]
+</details>
+
+
+### 13. Find Eigen values and eigen vectors of A 
+|     |     |
+| --- | --- |
+| 0   | 1   |
+| -2  | -3 |
+<details>
+  <summary>View Answer</summary>
+
+    > Eigen Values: -1 , -2
+    > Eigen Vectors: [t,-t] , [t, -2t]
+</details>
+
+### 14. Find the inverse of the below matrix and Justify
+|     |     |    |
+| --- | --- | ---|
+| 5   | -2  | 4  |
+| -2  | 1   | 1  |
+| 4   | 1   | 0  |
+<details>
+  <summary>View Answer</summary>
+
+    
+</details>
+
+### 15. Find the inverse of the below matrix and Justify
+|     |     |    |
+| --- | --- | ---|
+| 1   | 2   | 1  |
+| 5   | 2   | 4  |
+| 4   | 0   | 3  |
+<details>
+  <summary>View Answer</summary>
+    
 </details>
