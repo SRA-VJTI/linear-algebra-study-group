@@ -175,7 +175,11 @@
 | 4   | 1   | 0  |
 <details>
   <summary>View Answer</summary>
-
+ 1/37* <table>
+  <tr> <td>1  </td> <td> -4</td> <td> 6 </td>   </tr>
+  <tr> <td>-4 </td> <td> 16</td> <td> 13</td>   </tr>
+  <tr> <td>6 </td> <td> 13</td> <td> -1 </td>   </tr>
+  </table>
     
 </details>
 
@@ -187,5 +191,5 @@
 | 4   | 0   | 3  |
 <details>
   <summary>View Answer</summary>
-    
+    > Does not exist
 </details>
