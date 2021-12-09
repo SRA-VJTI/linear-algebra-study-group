@@ -37,13 +37,13 @@ Every subspace must contain the zero vector because vector spaces are closed und
 
 The subspaces of R<sup>2</sup> are:
 
-1. all of R 2 ,
+1. all of R<sup>2</sup> ,
 2. any line through [0 0] and
 3. the zero vector alone (Z).
 
 The subspaces of R<sup>3</sup> are:
 
-1. all of R 3 ,
+1. all of R<sup>3</sup> ,
 2. any plane through the origin,
 3. any line through the origin, and
 4. the zero vector alone (Z). 
