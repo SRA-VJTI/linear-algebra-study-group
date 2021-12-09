@@ -1,8 +1,10 @@
 ## Factorization into A = LU
 
-    Goal of this lecture is to understand Gaussian elimination in terms of matrices. 
-    To ﬁnd a matrix L such that A = LU. 
-    We start with some useful facts about matrix multiplication.
+Goal of this lecture is 
+* To understand Gaussian elimination in terms of matrices. 
+* To ﬁnd a matrix L such that A = LU. 
+
+We start with some useful facts about matrix multiplication.
 
 ### Inverse of a product
 
