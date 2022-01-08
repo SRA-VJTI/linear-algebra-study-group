@@ -19,7 +19,7 @@ Now finding the solution x by putting free variables as random constants
 
 ## Reduced Row Echelon Form
 
-If the leading coefficient in each row is the only non-zero number in that column, the matrix is said to be in reduced row echelon form(rref). Consider the below example.
+If the leading coefficient in each row is the only non-zero number and unity in that column, the matrix is said to be in reduced row echelon form(rref). Consider the below example.
 
 ![rref](./Images/reduced_row_lect7.png)
 
