@@ -12,7 +12,7 @@ Example:
   
 ### Spanning, Basis, and Dimensions
 
-- **Spanning Definition:** A set of vectors {v1, v2, · · · , vl} span a space iff the space consists of all linear combinations of
+- **Spanning Definition:** A set of vectors {v1, v2, · · · , vl} span a space if the space consists of all linear combinations of
 those vectors.
 
 - **Basis Definition:** Let V be a vector space. Then a set S is a basis for V if S is linearly independent and V = span S. If S is a basis of V and S has only finitely many elements, then we say
@@ -31,5 +31,5 @@ A Basis for a vector space is a sequence of vectors with two properties:
 - The dimension of vector space is the number of vectors in every basis.
 
 Here are some facts:
-- A set of vectors in R^n {v1, · · · , vn} gives a basis iff the n × n matrix with those as columns gives an invertible matrix.
+- A set of vectors in R^n {v1, · · · , vn} gives a basis if the n × n matrix with those as columns gives an invertible matrix.
 - Every basis has the same number of vectors, the number being the dimension of the space.
