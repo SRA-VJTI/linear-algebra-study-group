@@ -1,5 +1,4 @@
 ## Complete Solution for Ax=b, Reduced Row Echlon Form R
-In this lecture we give the complete solution for solving Ax=b. We also introduce solvability and row reduced form R.
 
 ### Solving Ax=b
 The equations are:<br>
