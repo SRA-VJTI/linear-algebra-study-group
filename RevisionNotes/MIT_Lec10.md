@@ -18,6 +18,7 @@ For a matrix `A`
 * Basis of `left null` space of A ==> transforming `[A | I] ---> [R | E]`, look for combination of rows which give zero row
 * When the rank is as large as possible, r = n or r = m or r = m = n, the matrix has a left-inverse B or a right-inverse C or a two-sided A<sup>-1</sup>
 * Row spaces of A, U(echelon form) and R(reduced row echelon form) are same.
+* Column spaces of A, U(echelon form) and R(reduced row echelon form) are different.
 
 ### 3x3 matrices a vector space?
 
