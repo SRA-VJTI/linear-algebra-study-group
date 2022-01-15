@@ -4,7 +4,7 @@ This session explores the linear algebra of electrical networks and sheds light 
 
 Consider this directed graph - 
 
-![Graph](Images/Graph_lec12.png)
+![Graph](Images/Graph_lec12.PNG)
 
 Here `m` = 5 edges, `n` = 4 nodes.
 
@@ -16,7 +16,7 @@ It is the 5 by 4 matrix which tells us which nodes are connected by which edges.
 
 In general, an incidence matrix is a logical matrix that shows the relationship between two classes of objects, usually called an incidence relation. Here, we are showing the relationship between the edges and nodes of the graph.
 
-![Incidence Matrix](Images/Matrix_A_lec12.png)
+![Incidence Matrix](Images/Matrix_A_lec12.PNG)
 
 Row numbers in A are edge numbers, column numbers are node numbers.
 
@@ -32,11 +32,11 @@ Row numbers in A are edge numbers, column numbers are node numbers.
 
 After elimination, we get -
 
-![After Elimination](Images/Elimination_lec12.png)
+![After Elimination](Images/Elimination_lec12.PNG)
 
 This represents the following <b>tree</b>.
 
-![Tree](Images/GraphToTree_lec12.png)
+![Tree](Images/GraphToTree_lec12.PNG)
 
 Elimination reduces every graph to a tree (the graph has no closed loops). Rows are dependent when edges form a loop. Independent rows come from trees.
 
@@ -50,9 +50,9 @@ Let the nullspace solution of `A` be `x`.
 
 `Ax = 0`
 
-![Nullspace of A](Images/Nullspace_lec12.png)
+![Nullspace of A](Images/Nullspace_lec12.PNG)
 
-![Potential Difference](Images/PotentialDiff_lec12.png)
+![Potential Difference](Images/PotentialDiff_lec12.PNG)
 
 `Ax` denotes the Potential Difference between nodes.
 
@@ -99,7 +99,7 @@ If we add differences around a closed loop in the graph, they cancel to leave ze
 
 For example, let's take the potential differences for this loop.
 
-![Loop](Images/ColumnSpace_lec12.png)
+![Loop](Images/ColumnSpace_lec12.PNG)
 
 Here, `(x`<sub>`2`</sub>` - x`<sub>`1`</sub>`) + (x`<sub>`3`</sub>` - x`<sub>`2`</sub>`) - (x`<sub>`3`</sub>` - x`<sub>`1`</sub>`) = 0`
 
@@ -115,9 +115,9 @@ The left nullspace contains the solutions to `A`<sup>`T`</sup>`y = 0`.
 
 <b>Dimension of left nullspace = `m - r` = 2</b>
 
-![Left Nullspace](Images/LeftNullspace_lec12.png)
+![Left Nullspace](Images/LeftNullspace_lec12.PNG)
 
-![Current](Images/Current_lec12.png)
+![Current](Images/Current_lec12.PNG)
 
 Here, `y` is the current along each edge.
 
@@ -129,7 +129,7 @@ What are solutions to `A`<sup>`T`</sup>`y = 0`?
 
 Currents which balance themselves. Every loop current is a solution.
 
-![Current Loops](Images/Loops_lec12.png)
+![Current Loops](Images/Loops_lec12.PNG)
 
 Here, we have 2 small independent loops. The big loop of 1-2-3-4 is basically the sum of these two loops.
 
