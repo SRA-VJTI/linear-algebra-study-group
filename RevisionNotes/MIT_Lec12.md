@@ -71,7 +71,7 @@ The nullspace disappears when we fix x<sub>4</sub> = 0. The unknown x<sub>4</sub
 
 #### <u>The Row Space</u>
 
-The row space contains all combinations of the five rows.
+The row space contains all combinations of the 3 row basis vectors since the matrix has a rank of 3.
 
 <b>Dimension of rowspace = `r` = 3</b>
 
@@ -131,7 +131,7 @@ Currents which balance themselves. Every loop current is a solution.
 
 ![Current Loops](Images/Loops_lec12.PNG)
 
-Here, we have 2 small independent loops. The big loop of 1-2-3-4 is basically the sum of these two loops.
+Here, we have 2 small independent loops. The big loop of 1-2-5-4 is basically the sum of these two loops.
 
 Flows around the 2 small loops are a basis for the left nullspace.
 
