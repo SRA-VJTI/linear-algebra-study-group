@@ -66,6 +66,6 @@ Upload the code file and a document containing screenshot(s) of the output. Make
 
 3. Suppose A is a 11 by 8 incidence matrix formed from a connected unknown graph. How many columns of A are independent? What significance does A<sup>T</sup>A have? HINT: Check the diagonal entries. With this information, what is the sum of the diagonal entries of A<sup>T</sup>A of this specific 11 x 8 matrix?
 
-4. If A = uv<sup>T</sup> is a 2 by 2 matrix of rank 1, what are the four fundamental subspaces of A. If another matrix B produces the same four subspaces, what is the relationship between A and B?
+4. If A = uv<sup>T</sup> is a 2 by 2 matrix of rank 1, what are the four fundamental subspaces of A? If another matrix B produces the same four subspaces, what is the relationship between A and B?
 
 These answers should be handwritten and uploaded as a PDF file.
