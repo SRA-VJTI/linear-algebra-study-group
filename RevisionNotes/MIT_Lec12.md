@@ -71,7 +71,7 @@ The nullspace disappears when we fix x<sub>4</sub> = 0. The unknown x<sub>4</sub
 
 #### <u>The Row Space</u>
 
-The row space contains all combinations of the six rows.
+The row space contains all combinations of the five rows.
 
 <b>Dimension of rowspace = `r` = 3</b>
 
