@@ -12,7 +12,7 @@ This answer should be handwritten and uploaded as a PDF file.
 
 ### Q.2) Code for Four Fundamental Subspaces
 
-Write a code (in any language) to find the basis to the four fundamental sub spaces of a matrix. Don't use linear algebra libraries.
+Write a code (in any language) to find the basis to the four fundamental subspaces of a matrix. Don't use linear algebra libraries.
 
 Input Format:
 
