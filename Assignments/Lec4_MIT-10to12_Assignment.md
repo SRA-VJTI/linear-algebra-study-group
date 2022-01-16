@@ -54,7 +54,7 @@ Output Format:
 
 Upload the code file and a document containing screenshot(s) of the output. Make assumptions wherever required but state them clearly in the document along with conventions used.
 
-### Q.3) Problems on Graphs
+### Q.4) Problems on Graphs
 
 1. Write down the 3 by 3 incidence matrix A for the triangle graph. The first row has -1 in column 1 and +1 in column 2. What vectors (x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>) are in its nullspace? How do you know that (1, 0, 0) is not in its row space?
 
