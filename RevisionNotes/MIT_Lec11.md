@@ -6,6 +6,7 @@
 * Basis of upper triangular matrices - 6 dimensional
 * Basis of (Symmetric ∩ Upper triangular) - 3 dimensional (since diagonal)
 * Basis of (Symmetric ∪ Upper triangular) - 9 dimensional (since all 3x3)
+* dim(S) + dim(U) = dim(S ∩ U) + dim(S ∪ U), where S and U are vector spaces.
 
 * Every rank 1 matrix can be expressed as - u x v<sup>T</sup>
   * where `u` and `v` are column matrices
