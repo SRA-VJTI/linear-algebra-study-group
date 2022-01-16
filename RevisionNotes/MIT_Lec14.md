@@ -35,7 +35,7 @@ The zero vector.
 
 - **Why ?**
 - Because, Ax = 0 means the dot product of x with each row of A is 0.
-  ![li](Images/Row1-n.jpg)
+- ![li](Images/Row1-n.jpg)
 - Also the product of x with any combination of rows of A must be 0 (Another way to express it).
 - The column space is orthogonal to the left nullspace of A because the row space of A<sup>T</sup>. is perpendicular to the nullspace of A<sup>T</sup>.
 - We can also assume that row space and the nullspace of a matrix subdivide R<sup>n</sup> into two perpendicular subspaces.
@@ -51,8 +51,8 @@ The zero vector.
 
 - Rowspace dimension = 1
 - Basis = [1]
-  [2]
-  [5]
+          [2]
+          [5]
 - Nullspace dimension = 2 (It is a plane through the origin perpendicular to the Basis of rowspace).
 </pre>
 
