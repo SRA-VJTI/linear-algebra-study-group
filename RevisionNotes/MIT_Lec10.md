@@ -25,7 +25,7 @@ For a matrix `A`
 <details>
   <summary>View Answer</summary>
     
-  >  _Yes_
+  >  _Yes. Since they contain a Null vector and follow all other rules of being a vector space._
 </details>
   
 ### What are its subspaces?
