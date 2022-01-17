@@ -184,39 +184,39 @@ How?
 
 ### Ohm's Law
 
-If resistances are 1, Ohm's Law will match `y = -Ax`. Then `A`<sup>`T`</sup>`y = -A`<sup>`T`</sup>`Ax = 0`.
+* If resistances are 1, Ohm's Law will match `y = -Ax`. Then `A`<sup>`T`</sup>`y = -A`<sup>`T`</sup>`Ax = 0`.
 
-Minus sign is there in circuit theory - we change from `Ax` to `-Ax`. This is because the flow is from higher potential to lower potential. There is (positive) current from node 1 to node 2 when `x`<sub>`1`</sub>` - x`<sub>`2`</sub> is positive, whereas `Ax` was constructed to yield `x`<sub>`2`</sub>` - x`<sub>`1`</sub>.
+* Minus sign is there in circuit theory - we change from `Ax` to `-Ax`. This is because the flow is from higher potential to lower potential. There is (positive) current from node 1 to node 2 when `x`<sub>`1`</sub>` - x`<sub>`2`</sub> is positive, whereas `Ax` was constructed to yield `x`<sub>`2`</sub>` - x`<sub>`1`</sub>.
 
-Without any sources, the solution to `A`<sup>`T`</sup>`Ax = 0` will just be no flow: `x = 0 and y = 0`.
+* Without any sources, the solution to `A`<sup>`T`</sup>`Ax = 0` will just be no flow: `x = 0 and y = 0`.
 
-So for current to flow, we either need to fix voltages to one or more nodes, or add voltage or current sources.
+* So for current to flow, we either need to fix voltages to one or more nodes, or add voltage or current sources.
 
-For example, on adding a current source,
+* For example, on adding a current source,
 `A`<sup>`T`</sup>`Ax = f`
 
-Here, `f` represents the source added.
+* Here, `f` represents the source added.
 
-This is because Kirchhoff's Current Law changes from `A`<sup>`T`</sup>`y = 0` to `A`<sup>`T`</sup>`y = -f`, to balance the source `f` from outside.
+* This is because Kirchhoff's Current Law changes from `A`<sup>`T`</sup>`y = 0` to `A`<sup>`T`</sup>`y = -f`, to balance the source `f` from outside.
 
-The `A`<sup>`T`</sup>`A` is the <b>graph Laplacian matrix</b>. It is always symmetric.
+* The `A`<sup>`T`</sup>`A` is the <b>graph Laplacian matrix</b>. It is always symmetric.
 
-But this doesn't consider the whole picture because the resistances are 1 here.
+* But this doesn't consider the whole picture because the resistances are 1 here.
 
-Let `R` be a matrix of resistance values.
+* Let `R` be a matrix of resistance values.
 
-Now, Ohm's Law takes the form of : `Ry = -Ax`
+* Now, Ohm's Law takes the form of : `Ry = -Ax`
 
-Let `C` be a matrix of conductance values. `C` is called the <b>Conductance Matrix</b>. It is a diagonal `m` by `m` matrix.
+* Let `C` be a matrix of conductance values. `C` is called the <b>Conductance Matrix</b>. It is a diagonal `m` by `m` matrix.
 
-`C = R`<sup>`-1`</sup>
+* `C = R`<sup>`-1`</sup>
 
-Now, Ohm's Law takes the form of : <b>`y = -CAx`</b>
+* Now, Ohm's Law takes the form of : <b>`y = -CAx`</b>
 
-Ohm's Law states that current along an edge = conductance times the voltage difference.
+* Ohm's Law states that current along an edge = conductance times the voltage difference.
 
-Ohm's Law for all m currents is `y = -CAx`. The vector `Ax` gives the potential differences, and `C` multiplies by the conductances.
+* Ohm's Law for all m currents is `y = -CAx`. The vector `Ax` gives the potential differences, and `C` multiplies by the conductances.
 
-Combining Ohm's Law with Kirchhoff's Current Law (`A`<sup>`T`</sup>`y = 0` or `A`<sup>`T`</sup>`y = -f` for a current source `f`), we get `A`<sup>`T`</sup>`CAx = 0` or `A`<sup>`T`</sup>`CAx = f`.
+* Combining Ohm's Law with Kirchhoff's Current Law (`A`<sup>`T`</sup>`y = 0` or `A`<sup>`T`</sup>`y = -f` for a current source `f`), we get `A`<sup>`T`</sup>`CAx = 0` or `A`<sup>`T`</sup>`CAx = f`.
 
-Finally, we get <b>`A`<sup>`T`</sup>`CAx = f`</b>.
+* Finally, we get <b>`A`<sup>`T`</sup>`CAx = f`</b>.
