@@ -39,7 +39,7 @@ The zero vector.
 - Also the product of x with any combination of rows of A must be 0 (Another way to express it).
 - The column space is orthogonal to the left nullspace of A because the row space of A<sup>T</sup>. is perpendicular to the nullspace of A<sup>T</sup>.
 - We can also assume that row space and the nullspace of a matrix subdivide R<sup>n</sup> into two perpendicular subspaces.
-- For the same reason, in 3-Dimension we can not have two perpendicular lines as rowspace nullspace pair as dimensions don't match the findings. (1 + 1 = 2 but to we needed 3)
+- For the same reason, in 3-Dimension we can not have two perpendicular lines as rowspace nullspace pair as dimensions don't match the findings. (1 + 1 = 2 but we need 3)
 - **Example**
 <pre>
 - A = [ 1 2 5 ]  
@@ -65,8 +65,13 @@ The zero vector.
 - Due to measurement error, Ax = b is often unsolvable if m > n.
 - Our next challenge is to find the best possible solution in this case.
 - The matrix A<sup>T</sup>A plays a key role in this effort: the central equation is A<sup>T</sup>Ax<sup>hat</sup>= A<sup>T</sup>b.
-- Here x<sup>hat</sup> is different form x which is the best possible solution.
+- Here x<sup>hat</sup> is different from x which is the best possible solution.
 - Also A<sup>T</sup>A is square (n × n) and symmetric.
+
+- x<sup>hat</sup> = (A<sup>T</sup>A)<sup>-1</sup>A<sup>T</sup>b
+- If 
+1) The columns of A are linearly independent.
+2) A<sup>T</sup>A is invertible. 
 
 - **Example**
 <pre>
