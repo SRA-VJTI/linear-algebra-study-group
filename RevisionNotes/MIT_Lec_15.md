@@ -25,5 +25,3 @@
 ### Some important properties of P (the projecting matrix)'
 - P<sup>T</sup> = P
 - P . P  = P
-
-Note: The least square section is going to be covered in the assignment.
