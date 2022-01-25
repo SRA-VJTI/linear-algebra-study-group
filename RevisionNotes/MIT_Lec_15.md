@@ -12,7 +12,7 @@
 - Now `p` is a scalar multiple of `a`, so let `p = ax` with x being a scalar.
 - We get a<sup>T</sup> (b- ax) = 0.
 - Rearranging and substituting x, p = a(a<sup>T</sup>  . b / a<sup>T</sup>  . a)
-- By using the associative law, we see that p = (a . a<sup>T</sup> / a<sup>T</sup>  . a)b with the first bracket being known as the projection vector.
+- By using the associative law, we see that p = (a . a<sup>T</sup> / a<sup>T</sup>  . a)b with the first bracket being known as the projection matrix.
 
 ### Applying this formula to approximating Ax = b when there are no solutions to it.
 
