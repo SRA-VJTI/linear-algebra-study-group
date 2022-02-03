@@ -27,3 +27,17 @@
 <pre>
 det(A) = Σ<sub>p∈permute(1...n)</sub> ±Π a<sub>ip<sub>i</sub></sub>
 </pre>
+
+### Question
+
+- Find the determinant of F<sub>n x n</sub>.
+
+```
+    ┏                        ┓
+    ┃ 1   -1                 ┃
+    ┃ 1    1    -1           ┃
+F = ┃      1    1    -1      ┃
+    ┃                  . . . ┃
+    ┃                 1    1 ┃
+    ┗                        ┛
+```
