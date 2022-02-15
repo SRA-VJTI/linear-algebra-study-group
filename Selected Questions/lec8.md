@@ -9,25 +9,25 @@
 <summary>
 Answer
 </summary>
-c == 7 allows u = 1, v == 1, w == O. The column space is a plane.
+c == 7 allows u = 1, v == 1, w == 0. The column space is a plane.
 </details>
 
 2.What conditions on b1, b2, b3, b4 make each system solvable? Solve for x:
 
-![Question2](Images/lec8_q2.png)
+![Question2](Images/lec8_q2.jpg)
 
 <details>
 <summary>
 Answer
 </summary>
-Solvable if b2 = 2b1 and 3b1 - ,3b3 + b4 = O. Then X = 
+Solvable if b2 = 2b1 and 3b1 - ,3b3 + b4 = 0. Then X = 
 <br>
 
-![Question2](Images/lec8_a1.png)
+![Question2](Images/lec8_a1.jpg)
 
 <br>
-(b) Solvable if b2 == 2b1 and 3b1 - 3b3 + b4 == O. Then x =
+(b) Solvable if b2 == 2b1 and 3b1 - 3b3 + b4 == 0. Then x =
 <br>
 
-![Question2](Images/lec8_a2.png)
+![Question2](Images/lec8_a2.jpg)
 </details>
