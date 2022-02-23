@@ -20,13 +20,13 @@ c == 7 allows u = 1, v == 1, w == 0. The column space is a plane.
 <summary>
 Answer
 </summary>
-Solvable if b2 = 2b1 and 3b1 - ,3b3 + b4 = 0. Then X = 
+Solvable if b2 = 2b1 and 3b1 - 3b3 + b4 = 0. Then X = 
 <br>
 
 ![Question2](Images/lec8_a1.jpg)
 
 <br>
-(b) Solvable if b2 == 2b1 and 3b1 - 3b3 + b4 == 0. Then x =
+(b) Solvable if b2 = 2b1 and 3b1 - 3b3 + b4 = 0. Then x =
 <br>
 
 ![Question2](Images/lec8_a2.jpg)
