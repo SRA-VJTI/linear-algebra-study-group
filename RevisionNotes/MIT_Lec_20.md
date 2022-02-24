@@ -6,7 +6,7 @@ how the determinant can be used.
 <b>A<sup>-1</sup> = C<sup>T</sup>/det(A)</b>
 
 
-To verify the formula, we’ll check that A<sup>T</sup> = (det A) I.
+To verify the formula, we’ll check that AC<sup>T</sup> = (det A) I.
 
 ![Verifying A-1 formula](Images/ACt_lec20.png)
 
