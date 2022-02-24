@@ -18,7 +18,7 @@ det ( A − λI ) = 0. We can solve this characteristic equation for λ to get n
 
 * An (**n x n**) matrix will have **n** eigenvalues, and their sum will be the sum of the diagonal entries of the matrix: a<sub>11</sub> + a<sub>22</sub> + · · · + a<sub>nn</sub> . This sum is the trace of the matrix. For a two by two matrix, if we know one eigenvalue we can use this fact to ﬁnd the second.
 
-* We might get n distinct eigenvalues or 1 or more repeated eigenvalues. 
+* We might get n distinct eigenvalues or 1 or more repeated eigenvalues. MIT_Lec20
 
 * In general, the eigenvalues of a two by two matrix are the solutions to:
 
