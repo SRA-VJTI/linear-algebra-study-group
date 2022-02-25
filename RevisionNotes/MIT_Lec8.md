@@ -42,7 +42,7 @@ Rank of a matrix is determined by :
 * Number of pivot
 * Number of independent columns/rows
 * Dimension of column space  <br>
-r <= `max`(m, n) where,
+r <= `min`(m, n) where,
  m = rows, n = columns  <br>
 
 |   Condition    |   Solution    |                    Comment                    |
